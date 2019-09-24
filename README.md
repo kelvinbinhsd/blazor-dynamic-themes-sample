@@ -1,2 +1,2 @@
 # blazor-dynamic-themes-sample
-Example of Dynamic themes on Blazor
+Example of dynamic themes on Blazor
