@@ -1,4 +1,4 @@
-# How to Activate New Theme Dynamically With Blazor WASM
+# How to active dynamic new theme in BlazorWasm app
 By [Kelvin Binh](https://github.com/kelvinbinhsd)
 
 The simple project demonstrates how to implement switching themes dynamically with Blazor WASM 
