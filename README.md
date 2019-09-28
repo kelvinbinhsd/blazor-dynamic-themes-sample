@@ -39,7 +39,7 @@ The simple project demonstrates how to active dynamic new theme in BlazorWasm ap
 - [Up And Running](https://github.com/kelvinbinhsd/blazor-dynamic-themes-sample/blob/master/README.md#up-and-running)
 - [Switch to a theme](https://github.com/kelvinbinhsd/blazor-dynamic-themes-sample/blob/master/README.md#switch-theme-test)
 
-## Up And Running
+## Build Up And Running
 
 1. Install the latest [.NET Core 3.0 SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0) release.
 
@@ -54,7 +54,7 @@ The simple project demonstrates how to active dynamic new theme in BlazorWasm ap
    ```
 4. From browser, open [https://localhost:5001](https://localhost:5001)
 
-## Switch Theme Test
+## Test Switch Theme
 
 To switch an existed themes (`Default`, `RainyDay`, `Redwood`), simply changing value of `activeTheme` from `./wwwroot/sample-data/settings.json` file
 
